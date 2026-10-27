@@ -1,0 +1,10 @@
+# Không bao giờ commit secret hay dữ liệu vận hành nội bộ vào repo này.
+.env
+*.env
+*secret*
+*credential*
+*.pem
+*.key
+id_rsa*
+node_modules/
+dist/
